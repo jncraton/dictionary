@@ -36,5 +36,5 @@ make test
 
 ## Resources
 
-- [Binary Search Trees](https://en.wikibooks.org/wiki/C%2B%2B%2B/Data_structures/Binary_search_tree)
+- [Binary Search Trees](https://en.wikipedia.org/wiki/Binary_search_tree)
 - [Dictionary ADT](https://opendsa-server.cs.vt.edu/OpenDSA/Books/CS3/html/BSTDict.html)
